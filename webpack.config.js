@@ -2,7 +2,7 @@ var path = require('path')
 var webpack = require('webpack');
 
 var config = {
-  cache: false,
+  cache: true,
   devtool: 'source-map',
   entry: {
     polyfills: './src/polyfills',
