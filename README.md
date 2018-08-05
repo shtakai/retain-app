@@ -56,5 +56,5 @@ This repo is designed to accompany the free [Angular 2 Fundamentals course](http
 
 # Introduction Video
 
-[![Angular 2 Fundamentals](https://cloud.githubusercontent.com/assets/1016365/17240276/33ec0830-551f-11e6-94f8-a69846e322f9.png)](http://www.youtube.com/watch?v=ANM1xv0uJ7g)
+[![Angular 2 Fundamentals](https://cloud.githubusercontent.com/assets/1016365/17240276/33ec0830-551f-11e6-94f8-a69846e322f9.png)](http://www.youtube.com/watch?v=ANM1xv0uJ7g) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/retain-app.svg)](https://www.guardrails.io)
 
